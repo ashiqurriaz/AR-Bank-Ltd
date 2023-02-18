@@ -5,6 +5,7 @@
 }
 body{
     width: 100%;
+    
 
 }
 
@@ -22,8 +23,8 @@ body{
 }
 
 .submit-area{
-    width: 900px;
-    margin-top: 50px;
+    width: 800px;
+    margin-top: 40px;
     padding: 40px;
     border-radius: 40px;
     box-shadow: 5px 5px 10px rgb(91, 87, 87);
@@ -42,8 +43,8 @@ body{
     padding-left: 30px;
     padding-right: 30px;
     border-radius: 10px;
-   text-align: center;
-   background-color: rgb(247, 221, 220);
+    text-align: center;
+    background-color: rgb(247, 221, 220);
 }
 
 #transation-area{
