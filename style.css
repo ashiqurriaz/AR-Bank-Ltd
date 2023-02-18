@@ -6,6 +6,7 @@
 body{
     width: 100%;
     
+    
 
 }
 
@@ -19,7 +20,7 @@ body{
 
 #login-area h1{
     font-size: 60px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .submit-area{
@@ -49,7 +50,7 @@ body{
 
 #transation-area{
     display: none;
-    margin-top: 250px;
+    margin-top: 80px;
    
 }
 
@@ -91,8 +92,21 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    margin-left: 600px;
+    align-items: center; 
+    margin-left: 150px;
+    
    
 }
 
+.row{
+    justify-content: center;
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+}
